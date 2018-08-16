@@ -10,3 +10,6 @@
 [submodule "start_image"]
 	path = start_image
 	url = https://github.com/ChrisTimperley/start_image
+[submodule "start_repair"]
+	path = start_repair
+	url = https://github.com/ChrisTimperley/start_repair
