@@ -7,3 +7,6 @@
 [submodule "start_dbi"]
 	path = start_dbi
 	url = https://github.com/squaresLab/start_dbi
+[submodule "start_image"]
+	path = start_image
+	url = https://github.com/ChrisTimperley/start_image
