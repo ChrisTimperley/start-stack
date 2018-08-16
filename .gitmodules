@@ -4,3 +4,6 @@
 [submodule "start_core"]
 	path = start_core
 	url = https://github.com/ChrisTimperley/start-core
+[submodule "start_dbi"]
+	path = start_dbi
+	url = https://github.com/squaresLab/start_dbi
