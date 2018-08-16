@@ -1,3 +1,6 @@
 [submodule "start_cli"]
 	path = start_cli
 	url = https://github.com/ChrisTimperley/start-cli
+[submodule "start_core"]
+	path = start_core
+	url = https://github.com/ChrisTimperley/start-core
