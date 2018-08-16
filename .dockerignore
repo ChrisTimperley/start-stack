@@ -1,0 +1,6 @@
+*
+!start_cli
+!start_repair
+!start_core
+!start_image
+!start_dbi
