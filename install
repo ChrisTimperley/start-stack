@@ -1,4 +1,5 @@
 #!/bin/bash
+(cd kaskara && pip install .)
 (cd dronekit && pip install .)
 (cd start_core && pip install .)
 (cd start_image && pip install .)
