@@ -1,4 +1,5 @@
 #!/bin/bash
+(cd dronekit && pip install .)
 (cd start_core && git pull && pip install .)
 (cd start_image && git pull && pip install .)
 (cd start_dbi && git pull && pip install .)
