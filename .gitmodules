@@ -16,3 +16,6 @@
 [submodule "debgrind"]
 	path = debgrind
 	url = git@github.com:squaresLab/valgrind-tools
+[submodule "dronekit"]
+	path = dronekit
+	url = https://github.com/dronekit/dronekit-python
