@@ -6,4 +6,3 @@
 (cd start_repair && git pull && pip install .)
 (cd start_cli && git pull && pip install .)
 docker build -t christimperley/start:stack .
-start-cli build ~/start/scenarios/AIS-Scenario1/scenario.config
