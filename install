@@ -1,8 +1,8 @@
 #!/bin/bash
 (cd dronekit && pip install .)
-(cd start_core && git pull && pip install .)
-(cd start_image && git pull && pip install .)
-(cd start_dbi && git pull && pip install .)
-(cd start_repair && git pull && pip install .)
-(cd start_cli && git pull && pip install .)
+(cd start_core && pip install .)
+(cd start_image && pip install .)
+(cd start_dbi && pip install .)
+(cd start_repair && pip install .)
+(cd start_cli && pip install .)
 docker build -t christimperley/start:stack .
