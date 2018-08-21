@@ -19,3 +19,6 @@
 [submodule "dronekit"]
 	path = dronekit
 	url = https://github.com/dronekit/dronekit-python
+[submodule "kaskara"]
+	path = kaskara
+	url = git@github.com:ChrisTimperley/kaskara
