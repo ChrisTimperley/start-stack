@@ -13,3 +13,6 @@
 [submodule "start_repair"]
 	path = start_repair
 	url = https://github.com/ChrisTimperley/start_repair
+[submodule "debgrind"]
+	path = debgrind
+	url = git@github.com:squaresLab/valgrind-tools
