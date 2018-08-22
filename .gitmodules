@@ -22,3 +22,6 @@
 [submodule "kaskara"]
 	path = kaskara
 	url = git@github.com:ChrisTimperley/kaskara
+[submodule "darjeeling"]
+	path = darjeeling
+	url = git@github.com:squaresLab/Darjeeling
