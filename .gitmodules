@@ -25,3 +25,9 @@
 [submodule "darjeeling"]
 	path = darjeeling
 	url = git@github.com:squaresLab/Darjeeling
+[submodule "bugzoo"]
+	path = bugzoo
+	url = git@github.com:squaresLab/bugzoo
+[submodule "boggart"]
+	path = boggart
+	url = git@github.com:squaresLab/boggart

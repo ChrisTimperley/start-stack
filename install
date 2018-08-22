@@ -1,4 +1,6 @@
 #!/bin/bash
+(cd bugzoo && pip install .)
+(cd boggart && pip install .)
 (cd kaskara && pip install .)
 (cd darjeeling && pip install .)
 (cd dronekit && pip install .)
