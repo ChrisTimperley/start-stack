@@ -1,6 +1,6 @@
 #!/bin/bash
 (cd boggart && pip install .)
-(cd kaskara && pip install .)
+(cd kaskara && pip install . && docker build -t christimperley/kaskara .)
 (cd darjeeling && pip install .)
 (cd dronekit && pip install .)
 (cd start_core && pip install .)
