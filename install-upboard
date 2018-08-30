@@ -1,0 +1,10 @@
+#!/bin/bash
+(cd boggart && pip3 install .)
+(cd kaskara && pip3 install . && docker build -t christimperley/kaskara:latest .)
+(cd darjeeling && pip3 install .)
+(cd start_core && pip3 install .)
+(cd start_image && pip3 install .)
+(cd start_dbi && pip3 install .)
+(cd start_repair && pip3 install .)
+(cd start_cli && pip3 install .)
+docker build -t christimperley/start:stack .

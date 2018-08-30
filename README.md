@@ -9,6 +9,11 @@ submodules within this repository:
 $ git submodule update --init --recursive
 ```
 
+### UP board
+
+To install on the UP board, execute `./install-upboard` and ignore all other
+instructions.
+
 ### Debgrind
 
 To install Debgrind on Ubuntu:
@@ -67,4 +72,7 @@ To exit the virtual environment:
 $ echo "now you are no longer inside the pipenv"
 ```
 
-### Python 3.5+
+## Usage
+
+To learn more about the command-line interface for START, `start-cli`, see:
+https://github.com/ChrisTimperley/start-cli
