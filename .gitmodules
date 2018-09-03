@@ -1,30 +1,30 @@
 [submodule "start_cli"]
 	path = start_cli
-	url = git@github.com:ChrisTimperley/start-cli
+	url = https://github.com:ChrisTimperley/start-cli
 [submodule "start_core"]
 	path = start_core
-	url = git@github.com:ChrisTimperley/start-core
+	url = https://github.com:ChrisTimperley/start-core
 [submodule "start_dbi"]
 	path = start_dbi
-	url = git@github.com:squaresLab/start_dbi
+	url = https://github.com:squaresLab/start_dbi
 [submodule "start_image"]
 	path = start_image
-	url = git@github.com:ChrisTimperley/start_image
+	url = https://github.com:ChrisTimperley/start_image
 [submodule "start_repair"]
 	path = start_repair
-	url = git@github.com:ChrisTimperley/start_repair
+	url = https://github.com:ChrisTimperley/start_repair
 [submodule "debgrind"]
 	path = debgrind
-	url = git@github.com:squaresLab/valgrind-tools
+	url = https://github.com:squaresLab/valgrind-tools
 [submodule "dronekit"]
 	path = dronekit
 	url = https://github.com/dronekit/dronekit-python
 [submodule "kaskara"]
 	path = kaskara
-	url = git@github.com:ChrisTimperley/kaskara
+	url = https://github.com:ChrisTimperley/kaskara
 [submodule "darjeeling"]
 	path = darjeeling
-	url = git@github.com:squaresLab/Darjeeling
+	url = https://github.com:squaresLab/Darjeeling
 [submodule "boggart"]
 	path = boggart
-	url = git@github.com:squaresLab/boggart
+	url = https://github.com:squaresLab/boggart
