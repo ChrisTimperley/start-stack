@@ -2,13 +2,6 @@
 
 ## Installation
 
-Before starting the installation process, don't forget to fetch and update the
-submodules within this repository:
-
-```
-$ git submodule update --init --recursive
-```
-
 ### UP board
 
 To install on the UP board, execute `./install-upboard` and ignore all other
