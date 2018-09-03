@@ -1,0 +1,4 @@
+#!/bin/bash
+./install-upboard
+(cd kaskara && docker build -t christimperley/kaskara:latest .)
+docker build -t christimperley/start:stack .

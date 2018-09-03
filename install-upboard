@@ -1,11 +1,10 @@
 #!/bin/bash
 git submodule update --init --recursive
 (cd boggart && pip3 install --upgrade .)
-(cd kaskara && pip3 install --upgrade . && docker build -t christimperley/kaskara:latest .)
+(cd kaskara && pip3 install --upgrade .)
 (cd darjeeling && pip3 install --upgrade .)
 (cd start_core && pip3 install --upgrade .)
 (cd start_image && pip3 install --upgrade .)
 (cd start_dbi && pip3 install --upgrade .)
 (cd start_repair && pip3 install --upgrade .)
 (cd start_cli && pip3 install --upgrade .)
-docker build -t christimperley/start:stack .

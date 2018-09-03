@@ -2,6 +2,11 @@
 
 ## Installation
 
+### GCS
+
+To install on the GCS, execute `./install-gcs` and ignore all other
+instructions.
+
 ### UP board
 
 To install on the UP board, execute `./install-upboard` and ignore all other
