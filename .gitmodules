@@ -25,6 +25,3 @@
 [submodule "darjeeling"]
 	path = darjeeling
 	url = https://github.com/squaresLab/Darjeeling
-[submodule "boggart"]
-	path = boggart
-	url = https://github.com/squaresLab/boggart

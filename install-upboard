@@ -1,7 +1,6 @@
 #!/bin/bash
 git submodule update --init --recursive
-(pip3 install --upgrade bugzoo==2.1.16)
-(cd boggart && pip3 install --upgrade .)
+(pip3 install --upgrade boggart==0.1.14)
 (cd kaskara && pip3 install --upgrade .)
 (cd darjeeling && pip3 install --upgrade .)
 (cd start_core && pip3 install --upgrade .)
