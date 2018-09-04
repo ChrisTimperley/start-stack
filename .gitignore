@@ -1,5 +1,10 @@
+snippets.json
+transformations.json
+image.tar.gz
 analysis.json
 coverage.json
+localization.json
+patches/*
 
 envs
 venvs
