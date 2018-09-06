@@ -1,3 +1,5 @@
+*.spec
+build
 Pipfile
 
 snippets.json
