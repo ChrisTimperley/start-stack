@@ -13,7 +13,9 @@ py3:
 	  --hidden-import cement.ext.ext_configparser \
 	  --hidden-import cement.ext.ext_logging \
 	  --hidden-import flask_api.parsers \
-	  --hidden-import flask_api.renderers
+	  --hidden-import flask_api.renderers && \
+	  staticx --strip bin/startcli3 bin/startcli3 && \
+	  staticx --strip /usr/bin/git bin/git
 
 clean:
 	rm -rf bin/* build
